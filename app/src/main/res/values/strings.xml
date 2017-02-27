@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WidgetButton_ToggleButton</string>
+    <string name="tglbtn1_on">Red</string>
+    <string name="tglbtn1_off">Not Red</string>
+    <string name="tglbtn2_on">Yellow</string>
+    <string name="tglbtn2_off">Not Yellow</string>
+    <string name="tglbtn3_on">Blue</string>
+    <string name="tglbtn3_off">Not Blue</string>
+
+</resources>
